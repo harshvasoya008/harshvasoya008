@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 -->
+
+<img align="right" src="https://github.com/harshvasoya008/harshvasoya008/blob/master/minion-menu.png"/>
 
 ### Hi, I'm Harsh 👋
 
