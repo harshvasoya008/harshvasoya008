@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 -->
 
-<img align="right" src="https://github.com/harshvasoya008/harshvasoya008/blob/master/minion-menu.png" width="300"/>
+<img align="right" src="https://github.com/harshvasoya008/harshvasoya008/blob/master/minion-menu.png" width="350"/>
 
 ### Hi, I'm Harsh 👋
 
